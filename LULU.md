@@ -1,8 +1,5 @@
-# Bn meets Lulu
+# Morgan meets Lulu
 
-Bn: "Hi, Lulu! How is it going?"
-
-[...]
-Lulu: "Hi Bn, very well, where is Bn?"
-Bn: "This is my private branch he still doesn't know about."
-Lulu: "Ah, I see"
+Morgan: "Hi, Lulu! How is it going?"
+Lulu: "Hi Morgan, very well, where are the Bananas?"
+Morgan: "They are doing branching and merging"
