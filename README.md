@@ -1,9 +1,9 @@
 # Bananas in Pyjamas
 
-Edit
+B2:"Edit"
 
 B1:"next edit"
 
-It's conflict time!
-
 B1:
+
+B2:"another edit"
