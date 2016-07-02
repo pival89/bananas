@@ -1,5 +1,5 @@
 # Bananas in Pyjamas
 
-Edit
+B2:"Edit"
 
 B1:"next edit"
